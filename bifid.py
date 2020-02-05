@@ -1,3 +1,4 @@
+#The Bifid Cipher
 import fileinput
 
 def bifid(option,tableau,text):
